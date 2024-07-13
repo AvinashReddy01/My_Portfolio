@@ -1,5 +1,5 @@
-import { AiFillAppstore } from "react-icons/ai";
-import { FaMobile, FaGlobe, FaCode, FaRunning } from "react-icons/fa";
+// import { AiFillAppstore } from "react-icons/ai";
+import {FaGlobe, FaCode, FaRunning } from "react-icons/fa";
 import { SiProgress, SiAntdesign, SiMongodb, SiReact, SiNodedotjs } from "react-icons/si";
 import Card from "./Card";
 import Title from "./Title";
